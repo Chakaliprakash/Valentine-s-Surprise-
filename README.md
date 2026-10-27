@@ -11,31 +11,18 @@
 
 ---
 
-## 💌 About
+## Overview
 
-Valentine's Surprise is a lightweight browser-based project. The main experience is implemented in [index.html](index.html), making it easy to explore, customize, and share.
+A small browser-based Valentine's Day experience built with HTML.
 
-## 🚀 Run Locally
+## Run Locally
 
 1. Clone the repository.
-   ```bash
-   git clone https://github.com/Chakaliprakash/Valentine-s-Surprise-.git
-   ```
-2. Open the project folder.
-3. Open index.html in a modern browser.
+2. Open `index.html` in a modern web browser.
+3. Edit the page content or styling to customize the experience.
 
-No build step is required for a basic static HTML page.
+No build step is needed for a basic static HTML page.
 
-## 🎨 Customize
+## Author
 
-- Edit the text and content in index.html.
-- Adjust the page styling and interactions in the same file.
-- Preview your changes in the browser before publishing.
-
----
-
-<div align="center">
-
-Made with ❤️ by [Prakash Chakali](https://github.com/Chakaliprakash)
-
-</div>
+[Prakash Chakali](https://github.com/Chakaliprakash)
