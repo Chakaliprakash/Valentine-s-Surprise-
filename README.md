@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4c0519,45:be123c,100:fb7185&text=Valentine's%20Surprise&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=A%20little%20interactive%20web%20experience&descAlignY=65&descSize=15" width="100%" alt="Valentine's Surprise banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=195&color=0:4c0519,45:be123c,100:fb7185&text=Valentine's%20Surprise&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=A%20Little%20Interactive%20Web%20Experience&descAlignY=64&descSize=15" width="100%" alt="Valentine's Surprise banner"/>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Web](https://img.shields.io/badge/Experience-Interactive-9f1239)
-![Status](https://img.shields.io/badge/Type-Static%20Website-334155)
+![HTML5](https://img.shields.io/badge/HTML5-Web%20Experience-E34F26?style=for-the-badge)
+![Theme](https://img.shields.io/badge/Theme-Romantic%20%26%20Interactive-9f1239?style=for-the-badge)
 
-**A small, personal web surprise built as a single-page experience.**
-
-[Open Repository](https://github.com/Chakaliprakash/Valentine-s-Surprise-) · [View Source](https://github.com/Chakaliprakash/Valentine-s-Surprise-/blob/main/index.html)
+[Repository](https://github.com/Chakaliprakash/Valentine-s-Surprise-) · [Issues](https://github.com/Chakaliprakash/Valentine-s-Surprise-/issues)
 
 </div>
 
