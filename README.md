@@ -13,15 +13,22 @@
 
 ## Overview
 
-A small browser-based Valentine's Day experience built with HTML.
+A small interactive Valentine's Day webpage built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Responsive greeting card layout.
+- Photo area and personalized message.
+- Interactive response buttons.
+- Animated heart background.
 
 ## Run Locally
 
 1. Clone the repository.
-2. Open `index.html` in a modern web browser.
-3. Edit the page content or styling to customize the experience.
+2. Open `index.html` in a modern browser.
+3. Replace the sample image and message with your own content.
 
-No build step is needed for a basic static HTML page.
+This is a static frontend project and does not require a backend.
 
 ## Author
 
