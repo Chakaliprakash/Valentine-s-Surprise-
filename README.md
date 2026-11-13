@@ -1,37 +1,44 @@
-<div align="center">
+# A Birthday Surprise for Sravanthi ♥
+A cinematic, responsive birthday experience made with love by her brother, Prakash.
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=195&color=0:4c0519,45:be123c,100:fb7185&text=Valentine's%20Surprise&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=A%20Little%20Interactive%20Web%20Experience&descAlignY=64&descSize=15" width="100%" alt="Valentine's Surprise banner"/>
+## Experience
+- Cinematic burgundy, champagne-gold and ivory visual theme
+- Personal welcome screen and birthday tribute
+- Memory gallery with an image lightbox
+- Special message: Sravanthi is Prakash's younger sister and his second-mother figure
+- Personal birthday letter and an elder-brother promise
+- Original synthesized celebratory melody (starts only after a visitor interacts)
+- Confetti celebration and responsive mobile layout
+- No backend, build step, tracking, or third-party JavaScript dependency
 
-![HTML5](https://img.shields.io/badge/HTML5-Web%20Experience-E34F26?style=for-the-badge)
-![Theme](https://img.shields.io/badge/Theme-Romantic%20%26%20Interactive-9f1239?style=for-the-badge)
+## Add the original photographs
+The website intentionally does not generate or alter photographs. Add your own originals to the `assets/` folder using these exact filenames:
 
-[Repository](https://github.com/Chakaliprakash/Valentine-s-Surprise-) · [Issues](https://github.com/Chakaliprakash/Valentine-s-Surprise-/issues)
+| Filename | Suggested photograph |
+| --- | --- |
+| `sravanthi-cover.jpg` | Main birthday / bridal portrait |
+| `sravanthi-1.jpg` | Portrait |
+| `sravanthi-2.jpg` | Prakash and Sravanthi together |
+| `sravanthi-3.jpg` | Traditional outfit portrait |
+| `sravanthi-4.jpg` | A favourite family memory |
+| `sravanthi-5.jpg` | Candid / close-up portrait |
 
-</div>
+Until those files are added, the page shows graceful placeholders rather than broken-image icons. Keep the originals unchanged; the gallery uses `object-fit: contain`.
+
+## Run locally
+Open `index.html` in a modern browser, or run a static server:
+
+```bash
+python -m http.server 8000
+```
+
+Then visit http://localhost:8000.
+
+## Publish with GitHub Pages
+In the repository, open **Settings → Pages**. Choose **Deploy from a branch**, select **main** and **/(root)**, then save. GitHub will display the public Pages URL when deployment is ready.
+
+## Privacy
+This repository is public. Anyone can view photographs committed to it. Only upload photos that Sravanthi and the people pictured are comfortable sharing publicly.
 
 ---
-
-# Valentine's Surprise
-
-## Overview
-
-A small interactive Valentine's Day webpage built with HTML, CSS, and JavaScript.
-
-## Features
-
-- Responsive greeting card layout.
-- Photo area and personalized message.
-- Interactive response buttons.
-- Animated heart background.
-
-## Run Locally
-
-1. Clone the repository.
-2. Open `index.html` in a modern browser.
-3. Replace the sample image and message with your own content.
-
-This is a static frontend project and does not require a backend.
-
-## Author
-
-[Prakash Chakali](https://github.com/Chakaliprakash)
+Made with endless love by Prakash, for his little sister Sravanthi. ♥
